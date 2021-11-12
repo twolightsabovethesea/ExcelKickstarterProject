@@ -1,1 +1,1 @@
-The project was done for the University of Pennsylvania Data Analytics Bootcamp using Microsoft Excel.
+The project was done for the University of Pennsylvania Data Analytics Bootcamp using Microsoft Excel. Kickstarter data was processed and formatted in a worksheet and later used in pivot tables to answer questions and visualize the data.  
